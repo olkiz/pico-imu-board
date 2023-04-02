@@ -27,3 +27,4 @@ fp-info-cache
 
 # bak files:
 pico-imu-board-backups
+*auto_saved_files*
